@@ -1,0 +1,5 @@
+- ReAct or Reasoning and Actions
+- It is framework used to interact with external data sources.
+- Generating reasoning traces allow the model to induce, track, and update action plans, and even handle exceptions.
+- The ReAct framework can allow LLMs to interact with external tools to retrieve additional information that leads to more reliable and factual responses.
+- Combined internal chain-of-thought (CoT) and external information obtained during reasoning

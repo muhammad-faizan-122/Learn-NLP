@@ -1,0 +1,5 @@
+- PAL or Program Aided Language, technique can be used as external data source with LLM to perform the complex calculations.
+- LLM is not mathematical models which perform caluculation, but it is predicting best relevant token for word.
+- So we need some external source which can perform which calculation given prompt of LLM, we can Use python interpretor to get the get code from LLM and execute the python code, get the result and append the result to LLM completion and return the response to End user application.
+- Resource:
+    - https://www.coursera.org/learn/generative-ai-with-llms/lecture/6jh5Z/program-aided-language-models-pal
