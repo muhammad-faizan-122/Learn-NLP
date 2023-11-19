@@ -13,4 +13,5 @@
  - It can fail it dataset is not normalize.
 ![Con of ED](cosine_sim_intuition.png)
 **Cosine similarity**
-- 
+- It is one of the way to find the similarity and dis-similarity between two vectors using dot product formula.
+- If value  is close to one means similar and vice-versa.
